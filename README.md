@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">📓 Ingressei no curso de Desenvolvimento de Software Multiplataforma em fevereiro de 2026.<br>💭 Desenvolvi interesse em programação no ano de 2024, quando tive contato com programação em C++ e desenvolvimento de um projeto usando do Arduino Uno.</p>
+<p data-importer="text" align="left">📓 Ingressei no curso de Desenvolvimento de Software Multiplataforma em fevereiro de 2026.<br>💭 Desenvolvi interesse em programação no ano de 2024, quando tive contato com programação em C++ e desenvolvimento de um projeto usando Arduino Uno.</p>
 
 ###
 
