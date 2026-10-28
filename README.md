@@ -24,26 +24,28 @@
 
 ###
 
-<h2 data-importer="text" align="left">𝐴𝑡𝑢𝑎𝑙𝑚𝑒𝑛𝑡𝑒 𝑒𝑠𝑡𝑢𝑑𝑎𝑛𝑑𝑜</h2>
+<h2 data-importer="text" align="left">𝐴𝑡𝑢𝑎𝑙𝑚𝑒𝑛𝑡𝑒 𝑒𝑠𝑡𝑢𝑑𝑎𝑛𝑑𝑜...</h2>
 
 ###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="64" />
+  <img width="51" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="64" />
+  <img width="51" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="64" />
+  <img width="51" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="64" />
+  <img width="51" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="64" />
+  <img width="51" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="64" />
+  <img width="51" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="64" />
+  <img width="51" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="51" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
