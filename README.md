@@ -24,32 +24,58 @@
 
 ###
 
-<h2 data-importer="text" align="left">𝐴𝑡𝑢𝑎𝑙𝑚𝑒𝑛𝑡𝑒 𝑒𝑠𝑡𝑢𝑑𝑎𝑛𝑑𝑜...</h2>
+<h2 data-importer="text" align="left">𝐴𝑡𝑢𝑎𝑙𝑚𝑒𝑛𝑡𝑒 𝐸𝑠𝑡𝑢𝑑𝑎𝑛𝑑𝑜...</h2>
 
 ###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="51" />
+  <img width="41" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="51" />
+  <img width="41" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="51" />
+  <img width="41" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="51" />
+  <img width="41" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="51" />
+  <img width="41" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="51" />
+  <img width="41" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="51" />
+  <img width="41" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="51" />
+  <img width="41" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="41" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
 ###
 
 <p data-importer="text" align="left">✧ Uso o Canva para fins de apresentação e definição de identidade visual de projetos.<br>✧ Utilizo o Figma para prototipação de telas e produção de wireframes de alta fidelidade.<br>✧ Uso o Notion para documentação de projetos.</p>
+
+###
+
+<h2 data-importer="text" align="left">𝑅𝑒𝑑𝑒𝑠 𝑆𝑜𝑐𝑖𝑎𝑖𝑠</h2>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://discordapp.com/users/908467057677463613" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="183" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/victoria.nonis.7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="183" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/_vickk.s2/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="183" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vict%C3%B3ria-nonis-6a019a404/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="183" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/AEstranhaDaVic" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="183" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
 ###
